@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ContactUsActivity">
+
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/ic_phone_black_24dp" />
+
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="020-242-02-180" />
+
+        <Button
+            android:id="@+id/call"
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:background="@color/transparent"
+            android:text="Call"
+            android:textSize="10dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/ic_email_black_24dp" />
+
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="admissions@vit.edu" />
+
+        <Button
+            android:id="@+id/mail"
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:background="@color/transparent"
+            android:text="Mail"
+
+            android:textSize="10dp" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/ic_language_black_24dp" />
+
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+
+            android:text="http://www.vit.edu/" />
+
+        <Button
+            android:id="@+id/website"
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:background="@color/transparent"
+            android:text="Visit"
+            android:textSize="10dp" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+
+        <ImageButton
+            android:id="@+id/insta"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="50dp"
+            android:background="@drawable/instagram" />
+
+        <ImageButton
+            android:id="@+id/facebook"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="50dp"
+            android:background="@drawable/facebook" />
+
+        <ImageButton
+            android:id="@+id/linkdn"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="50dp"
+            android:background="@drawable/linkedin" />
+
+    </LinearLayout>
+</LinearLayout>

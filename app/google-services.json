@@ -1,0 +1,275 @@
+{
+  "project_info": {
+    "project_number": "359218421773",
+    "firebase_url": "https://campus-navigation-786cc.firebaseio.com",
+    "project_id": "campus-navigation-786cc",
+    "storage_bucket": "campus-navigation-786cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359218421773:android:fb3775f460f7f1ea",
+        "android_client_info": {
+          "package_name": "com.example.administrator.campuscompass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359218421773-9nuvs1b59tuaigsi5ni7dvfpvg3a9tm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.administrator.campuscompass",
+            "certificate_hash": "1dc4ef3132ef8dc36d9d2db62262981b7c92f105"
+          }
+        },
+        {
+          "client_id": "359218421773-o5km8rcc93rqaegk5t9rag13h5bqk3pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYRpxHkQ1u9WQkDkmNNFA1DNCwVHeMCjE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359218421773-o5km8rcc93rqaegk5t9rag13h5bqk3pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359218421773:android:2ac430668f883346",
+        "android_client_info": {
+          "package_name": "com.example.administrator.campusnavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359218421773-hi327nbqhnt41h1n7j12q3s9g1dsfjm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.administrator.campusnavigation",
+            "certificate_hash": "1dc4ef3132ef8dc36d9d2db62262981b7c92f105"
+          }
+        },
+        {
+          "client_id": "359218421773-o5km8rcc93rqaegk5t9rag13h5bqk3pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYRpxHkQ1u9WQkDkmNNFA1DNCwVHeMCjE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359218421773-o5km8rcc93rqaegk5t9rag13h5bqk3pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359218421773:android:4cbb2d2f334a4cba",
+        "android_client_info": {
+          "package_name": "edd.campuscompass01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359218421773-00ml47enmq3f2qisjseran23rhgq95hj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edd.campuscompass01",
+            "certificate_hash": "1dc4ef3132ef8dc36d9d2db62262981b7c92f105"
+          }
+        },
+        {
+          "client_id": "359218421773-o5km8rcc93rqaegk5t9rag13h5bqk3pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYRpxHkQ1u9WQkDkmNNFA1DNCwVHeMCjE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359218421773-o5km8rcc93rqaegk5t9rag13h5bqk3pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359218421773:android:371db068d655eb47",
+        "android_client_info": {
+          "package_name": "prathamcorp.CampusCompass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359218421773-o2dsu6omquuitf5macarl2oo8bclcj9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "prathamcorp.CampusCompass",
+            "certificate_hash": "0039693359549b3fac733f9b885488ca8106c54f"
+          }
+        },
+        {
+          "client_id": "359218421773-o5km8rcc93rqaegk5t9rag13h5bqk3pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYRpxHkQ1u9WQkDkmNNFA1DNCwVHeMCjE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359218421773-o5km8rcc93rqaegk5t9rag13h5bqk3pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359218421773:android:27bffc1e2d4c09fc",
+        "android_client_info": {
+          "package_name": "prathamcorp.campuscompass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359218421773-gkbn45c0o57er5dgflqcmeu9bfjlmure.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "prathamcorp.campuscompass",
+            "certificate_hash": "0039693359549b3fac733f9b885488ca8106c54f"
+          }
+        },
+        {
+          "client_id": "359218421773-o5km8rcc93rqaegk5t9rag13h5bqk3pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYRpxHkQ1u9WQkDkmNNFA1DNCwVHeMCjE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359218421773-o5km8rcc93rqaegk5t9rag13h5bqk3pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359218421773:android:842ed598014ca5a0",
+        "android_client_info": {
+          "package_name": "prathamcorp.persistent_admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359218421773-cme76c086k5tn2i80e2kuaac0ipji8qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "prathamcorp.persistent_admin_app",
+            "certificate_hash": "0039693359549b3fac733f9b885488ca8106c54f"
+          }
+        },
+        {
+          "client_id": "359218421773-o5km8rcc93rqaegk5t9rag13h5bqk3pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYRpxHkQ1u9WQkDkmNNFA1DNCwVHeMCjE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359218421773-o5km8rcc93rqaegk5t9rag13h5bqk3pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
